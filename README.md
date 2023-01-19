@@ -1,6 +1,6 @@
 # Joy-Con Connection Helpers
 ## About
-With [BetterJoy](https://github.com/Davidobot/BetterJoy) it is possible to use the Nintendo Switch Joy-Cons for games and emulators running on Windows. Connecting the Joy-Cons is a bit cumbersome as you have to pair them every time you want to use them (or at least I have to do that). I created tiny helper scripts to pair annd unpair a left and right Joy-Con.
+With [BetterJoy](https://github.com/Davidobot/BetterJoy) it is possible to use the Nintendo Switch Joy-Cons for games and emulators running on Windows. Connecting the Joy-Cons is a bit cumbersome as you have to pair them every time you want to use them (or at least I have to do that). I created tiny helper scripts to pair and unpair a left and right Joy-Con.
 
 ### Start Menu
 ![An example of how your start menu could look like soon](preview.png)
